@@ -1,0 +1,310 @@
+[
+    {
+        "word": "Mişar",
+        "tabooWords": [ "Kəsmək", "Balta", "Ağac", "Odun", "Taxta" ]
+    },
+    {
+        "word": "Quş Baxışı",
+        "tabooWords": [ "Xəritə", "Təpə", "Yuxarı", "Coğrafiya", "Görmək" ]
+    },
+    {
+        "word": "Palıd",
+        "tabooWords": [ "Ağac", "Meşə", "Yaşıl", "Taxta", "Çinar" ]
+    },
+    {
+        "word": "Önəri",
+        "tabooWords": [ "Təklif", "Həll", "Yol", "Cümlə", "Yaxşı Olar" ]
+    },
+    {
+        "word": "Printer",
+        "tabooWords": [ "Çap", "Kopya", "Sənəd", "Sürət", "Kağız" ]
+    },
+    {
+        "word": "Krem",
+        "tabooWords": [ "Üz", "Əl", "Yumuşaldmaq", "Sürtmək", "Dəri" ]
+    },
+    {
+        "word": "Göynəmək",
+        "tabooWords": [ "İncitmək", "Ağramaq", "İç", "Soğan", "Yandırmaq" ]
+    },
+    {
+        "word": "Palçıq",
+        "tabooWords": [ "Torpaq", "Yer", "Yumuşaq", "Meşə", "Qum" ]
+    },
+    {
+        "word": "Daban Daşı",
+        "tabooWords": [ "Ayaq", "Hamam", "Çirk", "Qabığ", "Bərk" ]
+    },
+    {
+        "word": "Sabun Qabı",
+        "tabooWords": [ "Qoymaq", "Hamam", "Əl", "Təmizləmək", "Şampun" ]
+    },
+    {
+        "word": "Milçək Öldürən",
+        "tabooWords": [ "Ağcaqanad", "Gecə", "Yatmaq", "Mığmığa", "Vurmaq" ]
+    },
+    {
+        "word": "Heyifslənmə",
+        "tabooWords": [ "Peşmanlıq", "Üzüntü", "Keçmiş", "Kaş", "Aga be" ]
+    },
+    {
+        "word": "Kahı",
+        "tabooWords": [ "Göyərti", "Salat", "Sezar", "Kabab", "Keşniş" ]
+    },
+    {
+        "word": "Atəşfəşanlıq",
+        "tabooWords": [ "Salut", "Yeni İl", "Toy", "Patdatmaq", "Atmaq" ]
+    },
+    {
+        "word": "Ərişdə",
+        "tabooWords": [ "Xəmir", "Aş", "Sup", "Yemək", "Un" ]
+    },
+    {
+        "word": "Ahəstə",
+        "tabooWords": [ "Yavaş", "Ağır", "Sürətli", "Durgun", "Təmbəl" ]
+    },
+    {
+        "word": "Heca",
+        "tabooWords": [ "Söz", "Hərf", "Səs", "Oxumaq", "Yazı" ]
+    },
+    {
+        "word": "Lüstür",
+        "tabooWords": [ "Lampa", "Asmaq", "Tavan", "İşıq", "Aydınlıq" ]
+    },
+    {
+        "word": "İzləmək",
+        "tabooWords": [ "Güdmək", "Arxasıyca Düşmək", "Gecə.", "Nəzarət", "Polis" ]
+    },
+    {
+        "word": "Cins",
+        "tabooWords": [ "Kişi", "Qadın", "Şəxsiyyət", "Arvad", "Adam" ]
+    },
+    {
+        "word": "Düymə",
+        "tabooWords": [ "Köynək", "Paltar", "Özü bilsin", "Bağlamaq", "Açıq" ]
+    },
+    {
+        "word": "Halloven",
+        "tabooWords": [ "Bayram", "Cadı", "Qeyd", "Balqabaq/Borani", "Şeytan" ]
+    },
+    {
+        "word": "Taxta Biti",
+        "tabooWords": [ "Yatmaq", "Cır-Cır", "Səs", "Balaca", "Yeyir" ]
+    },
+    {
+        "word": "Şamdan",
+        "tabooWords": [ "Mum", "İşıq", "Aydınlıq", "Yandırmaq", "Qoymaq" ]
+    },
+    {
+        "word": "Alışqan",
+        "tabooWords": [ "Siqaret", "Kibrit", "Yandırmaq", "Alov", "Qaz" ]
+    },
+    {
+        "word": "Sürət Qutusu",
+        "tabooWords": [ "Maşın", "Getmək", "Avtomat", "Mexanika", "Qaz" ]
+    },
+    {
+        "word": "Peşmalıq",
+        "tabooWords": [ "Səhv", "Üzülmək", "Xəta", "Kaşki", "Son" ]
+    },
+    {
+        "word": "Jaluz",
+        "tabooWords": [ "Pərdə", "Pəncərə", "İşıq", "Bağlamaq", "Görsənmək" ]
+    },
+    {
+        "word": "YarıBişmiş",
+        "tabooWords": [ "Çiy", "Yemək", "Peç", "Soba", "İsti" ]
+    },
+    {
+        "word": "Sağdış-Soldış",
+        "tabooWords": [ "Bəy", "Gəlin", "Kürəkən", "Toy", "Çiyin" ]
+    },
+    {
+        "word": "Şahmat",
+        "tabooWords": [ "Oyun", "Şahmat Daşı Adları","Qara-Ağ", "Masa", "Güclü" ]
+    },
+    {
+        "word": "Köpüklü",
+        "tabooWords": [ "Şampun", "Sabun", "Su", "Vanna", "Hamam" ]
+    },
+    {
+        "word": "Paraşüt",
+        "tabooWords": [ "Təyyarə", "Tullanmaq", "Uçmaq", "Xəyal", "Hava" ]
+    },
+    {
+        "word": "Natamam",
+        "tabooWords": [ "Yarımçıq", "Təhsil", "Ali", "Müzakirə", "Məktəb" ]
+    },
+    {
+        "word": "Damcı",
+        "tabooWords": [ "Su", "Hissə", "Yağış", "Bulud", "Göl" ]
+    },
+    {
+        "word": "Kəpənək",
+        "tabooWords": [ "Rəngli,", "Qoza", "Uçmaq", "Tırtıl", "Bir gün" ]
+    },
+    {
+        "word": "GöyQurşağı",
+        "tabooWords": [ "Rəngli", "Hava", "Günəş", "Yağış", "Rəngli" ]
+    },
+    {
+        "word": "Mala",
+        "tabooWords": [ "İnşaat", "Divar", "Usta", "Gips", "Beton" ]
+    },
+    {
+        "word": "Teatr",
+        "tabooWords": [ "Aktyor", "Səhnə", "Pərdə", "Oyun", "Tamaşa" ]
+    },
+    {
+        "word": "Dost",
+        "tabooWords": [ "Güvən", "Səmimi", "Dürüst", "Yaxın", "Tanış" ]
+    },
+    {
+      "word": "Jurnal",
+      "tabooWords": [ "Qazet", "Səhifə", "Məqalə", "Yazı", "Xəbər" ]
+    },
+    {
+        "word": "Tələ",
+        "tabooWords": [ "Hiylə", "Ov", "Qurt", "Heyvan", "Siçan" ]
+    },
+    {
+        "word": "Empatiya",
+        "tabooWords": [ "Özünü", "Başqası", "Yerinə", "QoymaK", "Düşünmə" ]
+    },
+    {
+        "word": "Selfi",
+        "tabooWords": [ "Qabaq", "Çəkmək", "Özünü", "Şəkil", "Poza" ]
+    },
+    {
+        "word": "Heybətli",
+        "tabooWords": [ "Uca", "Dağ", "Yüksək", "İri", "Böyük" ]
+    },
+    {
+        "word": "Alışdırmaq",
+        "tabooWords": [ "Atəş", "Yandırmaq", "Odun", "Taxta", "Siqaret" ]
+    },
+    {
+        "word": "Praktik",
+        "tabooWords": [ "Rahat", "Zəka", "Tez", "Sürətli", "Həll" ]
+    },
+    {
+        "word": "Qıvılcım",
+        "tabooWords": [ "Atəş", "Kibrit", "Alışqan", "Daş", "Sürtmək" ]
+    },
+    {
+        "word": "Köhnə",
+        "tabooWords": [ "Təzə", "Tarixi", "Yıxılmak", "Bina", "Xaraba" ]
+    },
+    {
+        "word": "Akrostiş",
+        "tabooWords": [ "Şeir", "Misra", "Ad", "İlk", "Hərf" ]
+    },
+    {
+        "word": "Bambuk",
+        "tabooWords": [ "Qamış", "Tropik", "Panda", "Mebel", "Ağac" ]
+    },
+    {
+        "word": "Vəhşi",
+        "tabooWords": [ "Primitiv", "Yabani", "Həyat", "Meşə", "Heyvan" ]
+    },
+    {
+        "word": "İmmiqrant",
+        "tabooWords": [ "Qaçqın", "Viza", "Soyuq", "Köçmək", "Suriya" ]
+    },
+    {
+        "word": "İştah",
+        "tabooWords": [ "Acmaq", "Kəsilmək", "Qaçdı", "Ləzzət", "Yemək" ]
+    },
+    {
+        "word": "Ayıq",
+        "tabooWords": [ "Ağıllı", "Axmaq", "Açıkgözlü", "Bic", "Saf" ]
+    },
+    {
+        "word": "Hilə",
+        "tabooWords": [ "Aldatmaq", "Yalan", "Oyun", "Etmək", "Qumar" ]
+    },
+    {
+        "word": "Fərari",
+        "tabooWords": [ "Qaçmaq", "Həbsxana", "Türmə", "Məhkum", "Tünel" ]
+    },
+    {
+        "word": "Təcrübə",
+        "tabooWords": [ "Tələbə", "İşləmək", "Universitet", "Staj", "Müsahibə" ]
+    },
+    {
+        "word": "Sui-istifadə",
+        "tabooWords": [ "Yaxşı", "Niyytt", "İstifadə", "Faydalanmaq", "Pis" ]
+    },
+    {
+        "word": "Arıq",
+        "tabooWords": [ "Zəif", "İncə", "Çəlimsiz", "Kök", "Xəstə" ]
+    },
+    {
+        "word": "Yadigar",
+        "tabooWords": [ "Ailə", "Xatirə", "Dəyərli", "Miras", "Saxlamaq" ]
+    },
+    {
+        "word": "Nadir",
+        "tabooWords": [ "Çətin", "Az", "Tapmaq", "Tez", "Çox" ]
+    },
+    {
+        "word": "çovdar",
+        "tabooWords": [ "Arpa", "Taxıl", "Buğda", "Kəpək", "Çörək" ]
+    },
+    {
+        "word": "Nisyə",
+        "tabooWords": [ "Nəğd", "Borc", "Ödəmək", "Dəftər", "Almaq" ]
+    },
+    {
+        "word": "Blokada",
+        "tabooWords": [ "Ətraf", "Mühasirə", "Savaş", "Almaq", "Düşmən" ]
+    },
+    {
+        "word": "Qəribsəmək",
+        "tabooWords": [ "Qəribə", "Qeyri Adi", "Qəbullanmaq", "Şok olmaq", "Davranış" ]
+    },
+    {
+        "word": "Boşboğaz",
+        "tabooWords": [ "Danışmaq", "Gəvəzə", "Çox", "Sir", "Demək" ]
+    },
+    {
+        "word": "Doza",
+        "tabooWords": [ "Miqdar", "Dərman", "Həkim", "Resept", "Çox" ]
+    },
+    {
+        "word": "Porsiya",
+        "tabooWords": [ "Yemək", "Boşqab", "Hissə", "Restoran", "Yarım" ]
+    },
+    {
+        "word": "Sərvət",
+        "tabooWords": [ "Qazanmaq", "Varlı", "Mal", "Mülk", "Pul" ]
+    },
+    {
+        "word": "Nümunə",
+        "tabooWords": [ "Misal", "Vermək", "Təhlil", "Örnək", "Kömək" ]
+    },
+    {
+        "word": "Eskimos",
+        "tabooWords": [ "Qütb", "Buzluq", "Qar", "Soyuq", "Balıq" ]
+    },
+    {
+        "word": "Qəddar",
+        "tabooWords": [ "Mərhəmətsiz", "Sərt", "Qatı", "Mərhəmət", "İnsaf" ]
+    },
+    {
+        "word": "Çadır",
+        "tabooWords": [ "Kamp", "Düşərgə", "Qurmak", "Meşə", "Tətil" ]
+    },
+    {
+        "word": "Buqələmun",
+        "tabooWords": [ "Rənk", "Heyvan", "Dəyiştirmə", "Sürünən", "Kərtənkələ" ]
+    },
+    {
+        "word": "Cəbhə",
+        "tabooWords": [ "Savaş", "Ordu", "Əsgər", "Hücum", "Ön/Arxa" ]
+    },
+    {
+        "word": "Yamac",
+        "tabooWords": [ "Uçurum", "Yüksək", "Dağ", "Dik", "Paraşüt" ]
+    }
+]
