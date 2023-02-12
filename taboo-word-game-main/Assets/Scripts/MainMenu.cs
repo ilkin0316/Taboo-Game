@@ -51,7 +51,7 @@ public class MainMenu : MonoBehaviour
     private IEnumerator GetJsonFromURL()
     {
         // URL of json file
-        jsonURL = "https://raw.githubusercontent.com/ilkin0316/Taboo/main/taboo-word-game-main/Assets/Resources/words-tr.json";
+        jsonURL = "https://raw.githubusercontent.com/ilkin0316/Taboo-Game/main/taboo-word-game-main/Assets/Resources/words-tr.json";
 
         UnityWebRequest requestToGetJsonString = UnityWebRequest.Get(jsonURL); // Create web request.
         yield return requestToGetJsonString.SendWebRequest();
@@ -121,7 +121,7 @@ public class MainMenu : MonoBehaviour
 #endif
 
         // URL of json file
-        jsonURL = "https://raw.githubusercontent.com/ilkin0316/Taboo/main/taboo-word-game-main/Assets/Resources/words-tr.json";
+        jsonURL = "https://raw.githubusercontent.com/ilkin0316/Taboo-Game/main/taboo-word-game-main/Assets/Resources/words-tr.json";
 
         UnityWebRequest requestToGetJsonString = UnityWebRequest.Get(jsonURL); // Create web request.
         yield return requestToGetJsonString.SendWebRequest();
